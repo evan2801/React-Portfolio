@@ -1,0 +1,50 @@
+.weather{
+    border-style: solid;
+    border-color:aqua ;
+    border-width: 5px;
+    length: 400px;
+    width:400px;
+}
+.password{
+    border-style: solid;
+    border-color: aqua ;
+    border-width: 5px;
+    length: 400px;
+    width:400px;
+}
+.booklist{
+    border-style: solid;
+    border-color: aqua ;
+    border-width: 5px;
+    length: 400px;
+    width:400px;
+}
+.burger{
+    border-style: solid;
+    border-color: aqua ;
+    border-width: 5px;
+    length: 400px;
+    width:400px;
+}
+.quize{
+    border-style: solid;
+    border-color: aqua ;
+    border-width: 5px;
+    length: 400px;
+    width:400px;
+}
+.notes{
+    border-style: solid;
+    border-color: aqua ;
+    border-width: 5px;
+    length: 400px;
+    width:400px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color:aqua;
+}
+
+
+

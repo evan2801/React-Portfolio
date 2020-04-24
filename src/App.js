@@ -4,11 +4,12 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 // import UI components
 import Navbar from './components/Navbar';
 import About from './components/About';
-import Discover from './components/Discover';
-import Search from './components/Search';
+import Contact from './components/Contact';
+import Mystuff from './components/Mystuff';
 
 //import bootstrap styleshhet for all pages
 import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
   return (
@@ -17,8 +18,8 @@ function App() {
         <Navbar />
         <Switch>
           <Route exact path='/' component={About} />
-          <Route exact path='/discover' component={Discover} />
-          <Route exact path='/search' component={Search} />
+          <Route exact path='/contact' component={Contact} />
+          <Route exact path='/mystuff' component={Mystuff} />
           <Route render={() => <h1 className='text-center'>💩 Wrong Page!</h1>} />
         </Switch>
       </>

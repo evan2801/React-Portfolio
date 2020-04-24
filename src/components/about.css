@@ -1,0 +1,11 @@
+.images{
+ max-width: 50%;
+ max-height: 50%; 
+ border-style: solid;
+ border-color: aqua ;
+ border-width: 5px;
+}
+
+p{
+    color: aqua;
+}

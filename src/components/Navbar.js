@@ -6,17 +6,17 @@ import { NavLink } from 'react-router-dom';
 function CustomNavBar() {
   return (
     <Navbar bg={'dark'} variant={'dark'}>
-      <Navbar.Brand>Pupster</Navbar.Brand>
+      <Navbar.Brand>Portfolio</Navbar.Brand>
       <Navbar.Collapse>
         <Nav className='ml-auto'>
           <Nav.Link as={NavLink} to='/'>
             About
           </Nav.Link>
-          <Nav.Link as={NavLink} to='/discover'>
-            Discover
+          <Nav.Link as={NavLink} to='/contact'>
+            Contact
           </Nav.Link>
-          <Nav.Link as={NavLink} to='/search'>
-            Search
+          <Nav.Link as={NavLink} to='/mystuff'>
+            My Stuff
           </Nav.Link>
         </Nav>
       </Navbar.Collapse>
