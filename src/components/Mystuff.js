@@ -6,7 +6,7 @@ import password from '../images/password.png';
 import weather from '../images/weatherpage.png';
 import booklist from '../images/booklist.png';
 import burger from '../images/burger.png';
-import quize from '../images/quize.png';
+import employee from '../images/employee.png';
 import notes from '../images/notes.png';
 
 function Mystuff() {
@@ -38,8 +38,8 @@ function Mystuff() {
           </Container>
 
           <Container>
-          <a className="blue" href="https://evan2801.github.io/homework-04/"><img className='quize' src={quize}/></a> 
-          <h2>The Quize</h2>
+          <a className="blue" href="https://react-1.evan2801.now.sh/"><img className='employee' src={employee}/></a> 
+          <h2>Employee Tracker</h2>
           </Container>
 
           <Container>
