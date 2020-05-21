@@ -18,8 +18,7 @@ function About() {
           <img className='images' src={bgImage}/>
            
            <p>
-           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Totam alias veritatis tempora, ipsa vel dignissimos voluptas fugit nihil vitae quasi! Accusantium quas quasi veniam, facere est sint quam ipsa architecto.
-           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus illum iste esse exercitationem quo nobis. Eius a totam consequuntur placeat sunt molestias eos aperiam recusandae dolor quibusdam. Corrupti, ducimus eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus illum iste esse exercitationem quo nobis. Eius a totam consequuntur placeat sunt molestias eos aperiam recusandae dolor quibusdam. Corrupti, ducimus eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus illum iste esse exercitationem quo nobis. Eius a totam consequuntur placeat sunt molestias eos aperiam recusandae dolor quibusdam. Corrupti, ducimus eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus illum iste esse exercitationem quo nobis. Eius a totam consequuntur placeat sunt molestias eos aperiam recusandae dolor quibusdam. Corrupti, ducimus eveniet. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus illum iste esse exercitationem quo nobis. Eius a totam consequuntur placeat sunt molestias eos aperiam recusandae dolor quibusdam. Corrupti, ducimus eveniet.
+       My name is Evan Stein, I am a graduate from Rutgers Coding Bootcamp for web development, and am eager to work. I am a good team player, and I am willing to be apart of something bigger than myself. My perfered Coding language is React, perferable front end But I can also do backend code. 
            </p>
          
 
